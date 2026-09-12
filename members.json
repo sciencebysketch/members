@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Olivia Huang",
+    "grade": 10,
+    "academy": "AAST",
+    "role": "President"
+  },
+  {
+    "name": "Ayaansh Jain",
+    "grade": 10,
+    "academy": "AEDT",
+    "role": "Vice President"
+  },
+  {
+    "name": "Abigail Oh",
+    "grade": 10,
+    "academy": "AMST",
+    "role": "Co-Secretary"
+  },
+  {
+    "name": "Audrey Choi",
+    "grade": 10,
+    "academy": "AAST",
+    "role": "Co-Secretary"
+  },
+  {
+    "name": "Krithik Saravanan",
+    "grade": 10,
+    "academy": "AMST",
+    "role": "Head Treasurer"
+  },
+  {
+    "name": "Vivienne Huang",
+    "grade": 9,
+    "academy": "AMST",
+    "role": "Treasurer A"
+  },
+  {
+    "name": "Ryan Park",
+    "grade": 9,
+    "academy": "ACHA",
+    "role": "Treasure B"
+  },
+  {
+    "name": "Katelyn Chung",
+    "grade": 10,
+    "academy": "ATCS",
+    "role": "Social Media Director"
+  },
+  {
+    "name": "Arjun Yuvaraj",
+    "grade": 10,
+    "academy": "ATCS",
+    "role": "Outreach Director"
+  },
+  {
+    "name": "Max Fang",
+    "grade": 9,
+    "academy": "ATCS",
+    "role": "Marketing Analyst"
+  },
+  {
+    "name": "Nathan Ahn",
+    "grade": 9,
+    "academy": "AMST",
+    "role": "Editor-in-Chief"
+  },
+  {
+    "name": "Varun Kamesh",
+    "grade": 10,
+    "academy": "AAST",
+    "role": "Editor"
+  },
+  {
+    "name": "Vincent Sorrentino",
+    "grade": 10,
+    "academy": "AEDT",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Emily Sands",
+    "grade": 9,
+    "academy": "AVPA-V",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Omar Shaik",
+    "grade": 9,
+    "academy": "AMST",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Aanya Jain",
+    "grade": 9,
+    "academy": "AEDT",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Celine Sung",
+    "grade": 9,
+    "academy": "AVPA-V",
+    "role": "Student Instructor"
+  }
+]
