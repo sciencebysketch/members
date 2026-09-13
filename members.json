@@ -51,7 +51,8 @@
     "name": "Arjun Yuvaraj",
     "grade": 10,
     "academy": "ATCS",
-    "role": "Outreach Director"
+    "role": "Outreach Director",
+    "bio": "Short bio goes here"
   },
   {
     "name": "Max Fang",
