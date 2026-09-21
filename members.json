@@ -36,6 +36,12 @@
     "role": "Treasurer B"
   },
   {
+    "name": "Ryan Park",
+    "grade": 9,
+    "academy": "ACHA",
+    "role": "Treasurer B"
+  },
+  {
     "name": "Katelyn Chung",
     "grade": 10,
     "academy": "ATCS",
@@ -63,7 +69,7 @@
     "name": "Nathan Ahn",
     "grade": 9,
     "academy": "AMST",
-    "role": "Editor-in-Chief"
+    "role": "Editor"
   },
   {
     "name": "Varun Kamesh",
