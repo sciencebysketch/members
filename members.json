@@ -78,10 +78,16 @@
     "role": "Editor"
   },
   {
-    "name": "Max Kim",
+    "name": "Muyoung Kim",
     "grade": 10,
     "academy": "ATCS",
     "role": "Sound/Media Engineer"
+  },
+  {
+    "name": "Elia Suh",
+    "grade": 10,
+    "academy": "AMST",
+    "role": "Lead Instructor"
   },
   {
     "name": "Vincent Sorrentino",
