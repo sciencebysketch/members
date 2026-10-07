@@ -42,12 +42,6 @@
     "role": "Treasurer B"
   },
   {
-    "name": "Katelyn Chung",
-    "grade": 10,
-    "academy": "ATCS",
-    "role": "Social Media Director"
-  },
-  {
     "name": "Arjun Yuvaraj",
     "grade": 10,
     "academy": "ATCS",
@@ -61,9 +55,21 @@
   },
   {
     "name": "Ryan Zhou",
-    "grade": 9,
+    "grade": 10,
     "academy": "ATCS",
     "role": "Outreach"
+  },
+  {
+    "name": "Katelyn Chung",
+    "grade": 10,
+    "academy": "ATCS",
+    "role": "Social Media Director"
+  },
+  {
+    "name": "Lilian Fu",
+    "grade": 9,
+    "academy": "AMST",
+    "role": "Social Media"
   },
   {
     "name": "Nathan Ahn",
