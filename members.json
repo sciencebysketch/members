@@ -119,5 +119,77 @@
     "grade": 9,
     "academy": "AVPA-V",
     "role": "Student Instructor"
+  },
+  {
+    "name": "Anne Valtchev",
+    "grade": 9,
+    "academy": "AAST",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Ariana Tarnowski",
+    "grade": 9,
+    "academy": "AEDT",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Arlette Ngabo",
+    "grade": 9,
+    "academy": "AMST",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Austin Deng",
+    "grade": 10,
+    "academy": "AEDT",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Elaine Kwon",
+    "grade": 9,
+    "academy": "AVPA",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Erin Kim",
+    "grade": 9,
+    "academy": "ABF",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Gheelim Lee",
+    "grade": 10,
+    "academy": "AMST",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Hailey Lee",
+    "grade": 9,
+    "academy": "AEDT",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Maia Miyake",
+    "grade": 9,
+    "academy": "AMST",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Sanam Hafizi",
+    "grade": 9,
+    "academy": "AMST",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Shaela Sen",
+    "grade": 9,
+    "academy": "AMST",
+    "role": "Student Instructor"
+  },
+  {
+    "name": "Zabelle Avanesyan",
+    "grade": 10,
+    "academy": "AVPA",
+    "role": "Student Instructor"
   }
 ]
